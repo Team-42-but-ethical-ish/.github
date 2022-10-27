@@ -2,6 +2,7 @@
 ### Helpful Resources
 - [ACM Code of Ethics](https://www.acm.org/code-of-ethics)
 - [Motivation Video](https://youtu.be/dQw4w9WgXcQ)
+- [Diagram Designer I used - Jhundon](https://app.diagrams.net/)
 
 ### Coursework Checklist
 - [ ] A. Requirements Engineering (Unit 2)
