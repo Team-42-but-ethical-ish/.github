@@ -1,6 +1,7 @@
 ## Team 42
 ### Helpful Resources
 - [ACM Code of Ethics](https://www.acm.org/code-of-ethics)
+- [Motivation Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### Coursework Checklist
 - [ ] A. Requirements Engineering (Unit 2)
