@@ -10,7 +10,7 @@
   - [ ] A2. Function & Non-Functional Requirements
   
 - [ ] B. Software Specification, Analysis and Design with UML (Unit 3)
-  - [ ] B1.Use Case Diagram
+  - [ ] B1. Use Case Diagram
   - [ ] B2. Documentation of UCD
   - [ ] B3. Describe the UCD
   - [ ] B4. Activity Diagram
